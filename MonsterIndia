@@ -1,0 +1,9 @@
+		//driver.findElement(By.name("location")).sendKeys("Mumbai");
+		//List <WebElement> list=driver.findElements(By.linkText("//ul[@class='multiselect__content ddn-scrollable modal-ref-class single-selected']/li"));
+		//System.out.println(list.size());
+		//WebElement city = driver.findElement(By.name("location")).sendKeys("Mumbai");
+		//city.clear(); 
+		//city.sendKeys("Mumbai");
+		//city.sendKeys(Keys.ARROW_DOWN);
+		//city.sendKeys(Keys.ENTER);
+							
